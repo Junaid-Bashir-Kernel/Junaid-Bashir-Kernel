@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junaid Bashir
 - 👀 I’m interested in : security research , digital forensics and developing open source tools 
-- 🌱 I’m currently learning : Python , Go and C 
+- 🌱 I’m currently learning : Python , Go , C and Codeql
 - 📫 How to reach me  : 
 
 <!---
