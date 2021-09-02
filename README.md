@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Junaid Bashir
 - 👀 I’m interested in : security research , digital forensics and developing open source tools 
 - 🌱 I’m currently learning : Python , Go , C and Codeql
-- 📫 How to reach me  : 
+- 📫 How to reach me  : you can reach me by Email  @vzlkc2e1w@relay.firefox.com
 
 <!---
 Junaid-Bashir-Kernel/Junaid-Bashir-Kernel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
