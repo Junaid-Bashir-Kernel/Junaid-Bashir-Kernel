@@ -1,6 +1,6 @@
 ### - 👋 Hi, I’m Junaid Bashir
-### - 👀  I’m interested in : security research , AI , digital forensics  and developing open source tools 
-### - Languages : Javascript (Typescript) ,Python , Go and C
+### - 👀  I’m interested in :  AI  security research , digital forensics  and developing open source tools 
+### - Languages : Javascript ,Python , Go and C
 ### - � Recent : Analog , Health Core
 
 <!---
